@@ -63,4 +63,4 @@ for fi=1:2
     title([ 'EEG signal at ' num2str(round(frex(frex2plot(fi)))) ' Hz' ])
 end
 
-%% Abhishek Goel
+%% Abhishek Goel - abhishek94goel@gmail.com
